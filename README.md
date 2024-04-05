@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Aditya Raj
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning Java with DSA and System Design
+- 🌱 I’m currently pursuing B.Tech in Computer Science & Engineering [Artificial Intelligence and Machine Learning]
+- I'm also improving my skills in Java with DSA and System Design
+- I have completed course of Java on Infosys SpringBoard
 
 
 <!---

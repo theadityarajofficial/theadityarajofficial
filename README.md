@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Aditya Raj
-- 💻 Infosys Springboard Intern 
-- 👀 Aspiring Web Development 
+- 👀 Aspiring Web Development
+-  Ex -Infosys Springboard Intern
 - 🌱 I’m currently pursuing B.Tech in Computer Science & Engineering [Artificial Intelligence and Machine Learning]
-- I'm also improving my skills in Java with DSA and System Design
 - I have completed course of Java on Infosys SpringBoard
-
-
-
